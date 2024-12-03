@@ -29,17 +29,7 @@ To view or edit a project:
 ## Projects
 Below is a list of projects included in this repository:
 
-- **Project Name 1**
-  - Description: Brief description of the project.
-  - Team Name: Name of the student team.
-  - [Link to Project Directory](./project-directory-link)
 
-- **Project Name 2**
-  - Description: Brief description of the project.
-  - Team Name: Name of the student team.
-  - [Link to Project Directory](./project-directory-link)
-
-(Continue listing all projects in the repository)
 
 ## Contributing
 We encourage students to contribute to this repository by sharing their own MIT App Inventor projects. To add a new project:
