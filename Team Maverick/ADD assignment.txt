@@ -1,0 +1,9 @@
+Project Name: Tic_Tac_Toe
+Description: This is a Gaming application.
+Team Name: Team Maverick
+Team Members: Pooja P - CSE171
+              Pooja Shree S - CSE172
+              Nikitha R - CSE159
+              Reshma Dahal - CSE192
+
+              

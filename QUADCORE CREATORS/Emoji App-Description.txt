@@ -1,0 +1,26 @@
+Team Name: QUADCORE CREATORS
+Here is a brief description of your Emoji App:
+
+Project Name: <<Emoji App>>
+
+This simple and fun app, created using MIT App Inventor, allows users to select and display different emojis on the screen.
+
+Features:
+
+Emoji Selection:     Users can choose from a variety of emojis by tapping on the corresponding buttons.
+Emoji Display:       The selected emoji is displayed on the screen.
+Basic Functionality: The app demonstrates the use of buttons and image components in MIT App Inventor.
+
+How It Works:
+
+1. Launch the App:  Open the app on your device.
+2. Select an Emoji: Tap on the button representing the desired emoji.
+3. View Emoji:      The selected emoji will appear on the screen.
+
+This app serves as a good starting point for learning MIT App Inventor and creating simple interactive applications. With some enhancements, it could become a more comprehensive and user-friendly emoji app.
+
+TEAM MEMBER DETAILS:
+PRINCE BENJAMIN K - CSE177	
+NAVEEN KARTHIK B  - CSE150
+PUVIARASU S E     - CSE184
+NISHANTH V        - CSE162

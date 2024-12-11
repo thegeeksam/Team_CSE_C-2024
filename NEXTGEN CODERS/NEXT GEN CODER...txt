@@ -1,0 +1,22 @@
+Project-001: calculator
+
+Description:
+
+Simple and Effective:
+
+* The calculator app performs basic mathematical operations like additions, substraction ,  multiplication and division.
+
+* It features a simple , user-friendly design with clearly labeled buttons for numbers and operations.
+
+* This app was built using MIT APP INVENTOR , it showcase the ability to create functional app with drag-and -drop coding.
+
+TEAM NAME : NEXTGEN CODERS
+
+TEAM MEMBERS :
+
+1.RUPESH KUMAR SAH(TEAM LEADER)- CSE201
+2.RANJIT SHAH KANU             - CSE189
+3.MURARI DAHAL                 - CSE146
+4.RAVI KUSHWAHA                - CSE190
+
+

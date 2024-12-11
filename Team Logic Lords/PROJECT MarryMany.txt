@@ -1,0 +1,11 @@
+PROJECT NAME: MarryMany
+
+Description: A funny matrimonial app that works when the user age is above 18.
+
+TEAM NAME: Team Logic Lords
+
+Team Members: 1.Mohit Kumar KS - CSE141
+	      2.Mubaarak M - CSE143
+	      3.Naveen Kumar G - CSE152
+	      4.Sachit K - CSE203
+

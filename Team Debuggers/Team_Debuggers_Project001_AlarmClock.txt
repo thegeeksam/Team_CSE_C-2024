@@ -1,0 +1,16 @@
+﻿Project-001 : AlarmClock App
+Description:
+Simple and Effective:
+ * A straightforward alarm clock designed for easy use and reliable wake-ups.
+ * No-frills design, focused on essential features: alarm setting and a wake-up label.
+Your Personal Morning Companion:
+ * A customizable alarm clock to start your day on your terms.
+ * Set alarms, adjust the snooze duration, and wake up to your preferred sound.
+Technology Used : MIT APP INVENTOR
+Team Name : Team Debuggers
+Members :
+* Sagar Kumar Patel (Leader) - CSE204
+* Ombabu Chaurasiya            - CSE165
+* Niket Kumar                        - CSE158
+* Sahil Miya Teli                    - CSE205
+
